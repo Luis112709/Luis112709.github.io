@@ -102,7 +102,6 @@
 <body>
     <header>
         <img src="IMG_6054.jpg" alt="Evergreen Landscaping Logo">
-        Evergreen Landscaping
         <a href="tel:3175169452" class="call-now">📞 Call Now</a>
     </header>
     <nav>
