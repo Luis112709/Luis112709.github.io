@@ -102,7 +102,7 @@
 <body>
     <header>
         <img src=![IMG_6054](https://github.com/user-attachments/assets/ae6951b6-8374-4c6f-87df-5ed71074f505)
-"IMG_6054.jpg" alt="Evergreen Landscaping Logo">
+ alt="Evergreen Landscaping Logo">
         Evergreen Landscaping
         <a href="tel:3175169452" class="call-now">📞 Call Now</a>
     </header>
